@@ -1,0 +1,42 @@
+[
+    {
+        "Route ID": 1,
+        "Origin": "New York",
+        "Destination": "Los Angeles",
+        "Distance (miles)": 2467,
+        "Travel Time (hours)": 41.5,
+        "Optimized Route": ["New York", "Denver", "Las Vegas", "Los Angeles"]
+    },
+    {
+        "Route ID": 2,
+        "Origin": "Chicago",
+        "Destination": "Houston",
+        "Distance (miles)": 945,
+        "Travel Time (hours)": 14.2,
+        "Optimized Route": ["Chicago", "St. Louis", "Little Rock", "Houston"]
+    },
+    {
+        "Route ID": 3,
+        "Origin": "Seattle",
+        "Destination": "Miami",
+        "Distance (miles)": 2737,
+        "Travel Time (hours)": 43.1,
+        "Optimized Route": ["Seattle", "Boise", "Salt Lake City", "Denver", "Kansas City", "St. Louis", "Nashville", "Atlanta", "Miami"]
+    },
+    {
+        "Route ID": 4,
+        "Origin": "Dallas",
+        "Destination": "New York",
+        "Distance (miles)": 1371,
+        "Travel Time (hours)": 20.5,
+        "Optimized Route": ["Dallas", "Oklahoma City", "Kansas City", "St. Louis", "Columbus", "Pittsburgh", "New York"]
+    },
+    {
+        "Route ID": 5,
+        "Origin": "San Francisco",
+        "Destination": "Chicago",
+        "Distance (miles)": 1853,
+        "Travel Time (hours)": 28.5,
+        "Optimized Route": ["San Francisco", "Reno", "Salt Lake City", "Denver", "Omaha", "Des Moines", "Chicago"]
+    }
+]
